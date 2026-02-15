@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "KNOCK",
+  "base_artist": "back number",
+  "createdAt": "2026-02-15T14:32:54.442300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knock Off",
+      "artist": "Jess Moskaluke",
+      "has_synced": true,
+      "path": "select/01_Knock_Off_Jess_Moskaluke.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Don't Knock (1986)",
+      "artist": "Dolly Parton feat. Linda Ronstadt & Emmylou Harris",
+      "has_synced": false,
+      "path": "select/02_You_Don't_Knock_(1986)_Dolly_Parton_feat._Linda_Ronstadt_&_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Don't Knock",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/03_You_Don't_Knock_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knock 'Em Out",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/04_Knock_'Em_Out_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knock Knock",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/05_Knock_Knock_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knock Knock",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/06_Knock_Knock_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Knock Knock",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/07_Knock_Knock_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/08_Mama_Said_Knock_You_Out_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/09_Mama_Said_Knock_You_Out_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Knock On Wood (Live)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Knock_On_Wood_(Live)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knock Me A Kiss",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/11_Knock_Me_A_Kiss_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Knock on Wood",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Knock_on_Wood_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Knock On My Door",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/13_No_Knock_On_My_Door_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Knock (Indopepsychics remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/14_The_Knock_(Indopepsychics_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Knock (Indopepsychics Remix)",
+      "artist": "U.N.K.L.E.",
+      "has_synced": false,
+      "path": "select/15_The_Knock_(Indopepsychics_Remix)_U.N.K.L.E..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Knock 'Em Dead, Kid",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/16_Knock_'Em_Dead,_Kid_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Knock 'Em Dead, Kid - Demo",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/17_Knock_'Em_Dead,_Kid_-_Demo_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Knock On Any Door",
+      "artist": "Beat Happening",
+      "has_synced": false,
+      "path": "select/18_Knock_On_Any_Door_Beat_Happening.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KNOCK",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_KNOCK_back_number.txt"
+    }
+  ]
+}
